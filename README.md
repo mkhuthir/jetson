@@ -1,2 +1,1 @@
-# nvidia_jetson
-NVIDIA Jetson Code
+# NVIDIA Jetson and JetBot Code
